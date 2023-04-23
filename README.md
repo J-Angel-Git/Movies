@@ -15,6 +15,7 @@ Implement the recommendation engine: Once I have trained my model, I can use it 
 
 
 -----------WIBNI-----------
+
 Build a user interface: To make the recommendation system accessible to users, I can build a user interface using web frameworks such as Flask or Django. This will allow users to interact with the system, search for movies, and receive recommendations.
 
 Test and deploy the system: Once I have built the recommendation system and user interface, I'll have to test it thoroughly to see that it works properly then deploy the system to a web server or cloud platform so that users can access it.

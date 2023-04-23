@@ -9,7 +9,7 @@ Collect and preprocess data: I'll need data about movies, such as their titles, 
 
 Build a database: I will use MySQL to create a database to store my movie data, design the database schema, create the tables, and import the preprocessed data.
 
-Train a recommendation model: I will use Python libraries such as scikit-learn or TensorFlow (most likely to use TensorFlow) to train a recommendation model. I can use collaborative filtering, content-based filtering, or hybrid approaches.
+Train a recommendation model: I will use Python libraries such as scikit-learn or TensorFlow (most likely to use TensorFlow) to train a recommendation model. I will use content-based filtering.
 
 Implement the recommendation engine: Once I have trained my model, I can use it to generate recommendations for users based on their viewing history or preferences. I'll use Python to implement the recommendation engine, and connect it to the MySQL database to retrieve data.
 
